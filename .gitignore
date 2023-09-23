@@ -1,2 +1,3 @@
 config.php
-/esl/config.php
+/admin/config.php
+.env
